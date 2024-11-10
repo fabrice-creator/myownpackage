@@ -1,0 +1,11 @@
+Package: Rfilter
+Title: Create filter with Laguerre polynomials
+Version: 0.0.0.9000
+Authors@R: 
+    person("Mvoum", "Fabrice", , "fabricemvoum@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description:  Implements functions that use Laguerre transforms to create audio filters, including high-pass, low-pass, and band-pass filters.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
